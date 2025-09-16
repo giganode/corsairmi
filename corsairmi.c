@@ -76,6 +76,7 @@ static const uint16_t products[] = {
 	0x1c1e, /* HX1000i with USB-C */
 	0x1c08, /* HX1200i */
 	0x1c23, /* HX1200i with USB-C */
+	0x1c27  /* HX1200i with USB-C */
 	0x1c1f, /* HX1500i */
 };
 
